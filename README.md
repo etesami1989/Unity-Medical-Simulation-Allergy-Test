@@ -1,4 +1,4 @@
-Allergy Skin Test Training Simulation (Unity-based)
+# Allergy Skin Test Training Simulation (Unity-based)
 Health Simulation Prototype | Birjand University of Medical Sciences (2022-Present) 
 
 Project Overview
